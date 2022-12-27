@@ -4,12 +4,12 @@ package OopJavaHw1;
 public class Program {
     public static void main(String[] args) {
 
-        Person alexey = new Person("Илья", "Никитин",
+        Person jojo1 = new Person("Johnathan", "Joestar",
                 30, "мужской", "женат","карие", "темные");
-        Child nikita = new Child(15, "Никита", "Никитин");
+        Child jojo2 = new Child(15, "Joseph", "Joestar");
 
-        System.out.println(alexey);
-        System.out.println(nikita);
+        System.out.println(jojo1);
+        System.out.println(jojo2);
 
 
 
